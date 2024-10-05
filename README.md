@@ -46,6 +46,13 @@ Mapping concepts across SQL and Elasticsearch:
 
 ### Setup and Installation
 Installing steps for supported operating systems can be viewed in the official website. This tutorial will use the 8.10 version.
+<br>We'll use Python client to communicate with the instance. Make sure you have the correct version of python installed depending on the version of Elasticsearch you'll be using.
+
+```bash
+
+ pip install elasticsearch
+
+```
 
 ## References
 The information used in this repository has been gathered from vaious sources, which have been linked throughout the project to the best of my abilities. 
